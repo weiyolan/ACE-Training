@@ -1,14 +1,14 @@
 # Liste de l'équipe
 
-Nous allons modifier ce fichier ensemble pendant l'exercice. Gardons-le simple.
+Nous allons modifier ce fichier ensemble pendant l'exercice. Gardons-le (très) simple.
 
 ## Membres
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1.
+2.
+3.
+4.
+5.
 
 ## Devise de l'équipe
 
